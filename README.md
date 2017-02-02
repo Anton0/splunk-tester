@@ -12,6 +12,9 @@ Pull
 Install
 > $ npm install
 
+Install Mocha
+> $ npm install --global mocha
+
 ## Configure
 
 Update your config accordingly here:
